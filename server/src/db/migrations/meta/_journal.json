@@ -15,6 +15,13 @@
       "when": 1751997836350,
       "tag": "0001_brief_reavers",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752063374980,
+      "tag": "0002_natural_power_pack",
+      "breakpoints": true
     }
   ]
 }
